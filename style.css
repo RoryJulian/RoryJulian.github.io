@@ -1,22 +1,6 @@
 body{
-    background-color: rgba(255, 255, 255, 0.327);
+    background-color: rgba(155, 8, 8, 0.327);
     text-align: center;
     color: black;
-    margin-bottom: 200px
-    }
-    
-    .show{
-    background-color: rgb(206, 228, 240);
-    border:1px rgb(104, 128, 170) solid;
-    padding: 20px;
-    }
-    
-    .row{
-    margin-top: 100px;
-    min-height: 100px;
-    justify-content: space-between;
-    }
-    p, h4, h5, ul{
-        text-align: left;
-    }
-    
+    margin-top: 200px
+}
