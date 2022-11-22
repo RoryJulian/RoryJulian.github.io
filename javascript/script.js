@@ -1,4 +1,4 @@
-alert ("Welcome to the Rock, Paper, Scissors game. Input your selection below and see if you can beat the computer!");
+//alert ("Welcome to the Rock, Paper, Scissors game. Input your selection below and see if you can beat the computer!");
 
 function check(){
 var choice = document.getElementById("formAnswer").value;

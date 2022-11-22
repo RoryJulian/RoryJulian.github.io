@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(54, 77, 160, 0.327);
+    text-align: center;
+    color: black;
+    margin-top: 200px
+}
+#button{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
